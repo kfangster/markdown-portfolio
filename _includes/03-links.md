@@ -1,1 +1,1 @@
-[LinkedIn] (https://www.linkedin.com/in/kevinzfang/)
+[LinkedIn](https://www.linkedin.com/in/kevinzfang/)
